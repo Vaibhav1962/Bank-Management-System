@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723692421 source:c:\users\vaibhav\onedrive\desktop\labevaluation\bankmanagment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
